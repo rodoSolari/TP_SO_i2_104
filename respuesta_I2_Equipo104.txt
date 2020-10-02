@@ -1,6 +1,11 @@
 a- Para actualizar el estado de mi repositorio al estado del repositorio forkeado de BETA, uso "git pull https://github.com/helalubo/TP_SO_i2_104"
 b- Si, utilizando el comando mencionado en la respuesta "a", pero con el git del repositorio de GAMMA
-e_ 
+
+c-si, usando pull especificando el repo de Alfa.
+
+d-si, los pisa cuando hago el pull con respecto a otro repositorio, pero queda en el ultimo commit que yo realice.
+
+e- 
 Alejandro de moraiz
 Rodolfo solari
 Agustin Bernheim
