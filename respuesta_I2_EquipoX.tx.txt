@@ -1,2 +1,0 @@
-a- Para actualizar el estado de mi repositorio al estado del repositorio forkeado de BETA, uso "git pull https://github.com/helalubo/TP_SO_i2_104"
-b- Si, utilizando el comando mencionado en la respuesta "a", pero con el git del repositorio de GAMMA
