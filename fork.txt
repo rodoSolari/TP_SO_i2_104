@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 Rodolfo Solari
 192.168.181.128
 Fri Oct  2 07:00:21 PDT 2020
+=======
+Agustin Bernheim, 186.139.17.236, 10:42
+>>>>>>> b7ca69061deb0e04c221edf9b7e8c66e194f68d4

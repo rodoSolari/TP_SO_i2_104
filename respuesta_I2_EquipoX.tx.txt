@@ -1,0 +1,20 @@
+a- Para actualizar el estado de mi repositorio al estado del repositorio forkeado de BETA, uso "git pull https://github.com/helalubo/TP_SO_i2_104"
+b- Si, utilizando el comando mencionado en la respuesta "a", pero con el git del repositorio de GAMMA
+e_ 
+Alejandro de moraiz
+Rodolfo solari
+Agustin Bernheim
+
+Comandos :
+git clone, git status, git push, git pull, git add . , git commit -m, ifconfig,date
+
+Orden de ejecucion : 
+-Realizo un fork al repositorio de BETA
+-git clone para copiar el repositorio
+-Modifico el archivo fork.txt
+-git status para revisar si se modifico el archivo
+-git add . para agregarlo
+-git commit para realizar un comentario
+-git push para agregarlo al repositorio locar
+-git pull para actualizar el repositorio el cual realice el fork
+-git add . para agregar y git push para agregar al repositorio
